@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi There! 👋
 
-<!--
-**EzeSosa/EzeSosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ezequiel, a self-taught backend developer passionate about building clean, secure, and high-performance applications that follow SOLID principles. My main focus is on **Spring Boot** ecosystem using both **Java** and **Kotlin**. Also, I'm currently studying Systems Engineering at the Technological National University of Villa María, hoping to get my title soon.
 
-Here are some ideas to get you started:
+# What I'm Learning 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exploring more about **Microservices** architecture
+- Diving deeper into **Reactive Programming** with Spring WebFlux
+- Expanding my knowledge of **Frontend** development with React and TypeScript
+
+# Let's Connect 📫
+
+- Email: [ezequielsosa423@gmail.com](mailto:ezequielsosa423@gmail.com)
+- Instagram: [@ezequielsosa](instagram.com/ezequielsosa)
